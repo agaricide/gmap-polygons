@@ -19,5 +19,9 @@
   "homepage": "https://github.com/agaricide/gmap-polygons#readme",
   "devDependencies": {
     "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "@types/googlemaps": "^3.36.4",
+    "googlemaps": "^1.12.0"
   }
 }
