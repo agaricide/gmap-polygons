@@ -2,4 +2,6 @@ import { injectMap } from "./map";
 
 console.log("Injecting map!");
 
-injectMap();
+(async () => {
+  const map = await injectMap();
+})();
