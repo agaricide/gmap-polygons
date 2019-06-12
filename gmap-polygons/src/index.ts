@@ -12,12 +12,11 @@ console.log("Injecting map!");
     title: "Hello World!"
   });
 
-  const coords2 = { lat: 32.787682, lng: -96.784360 };
+  const coords2 = { lat: 32.787682, lng: -96.78436 };
 
   new google.maps.Marker({
     position: coords2,
     map: map,
     title: "Hello World!"
   });
-
 })();
