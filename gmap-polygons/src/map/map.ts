@@ -7,31 +7,35 @@ const createDiv = (id = ""): HTMLDivElement => {
   return div;
 };
 
-const initMap = (): Promise<google.maps.Map> => {
-  const div = createDiv("map");
-  const map = new google.maps.Map(div, {
-    center: { lat: 32.7767, lng: -96.797 },
-    zoom: 15
+const initMap = () =>
+  new Promise<google.maps.Map>((resolve, _) => {
+    const div = createDiv("map");
+    const map = new google.maps.Map(div, {
+      center: { lat: 32.7767, lng: -96.797 },
+      zoom: 15
+    });
+    resolve(map);
   });
-  return Promise.resolve(map);
-};
 
 const googleMapsUrl =
   "https://maps.googleapis.com/maps/api/js?key=AIzaSyDLfK6Ay-NkW5FRc-mmb82-nsSYWy9m0po&libraries=drawing";
 
 const injectMap = () =>
   new Promise<google.maps.Map>((resolve, reject) => {
-    if (!document.querySelectorAll(`[src="${googleMapsUrl}"]`).length) {
-      const el = document.createElement("script");
-      el.type = "text/javascript";
-      el.src = googleMapsUrl;
-      el.onload = () =>
-        initMap()
-          .then(map => resolve(map))
-          .catch(err => reject(err));
+    const scriptSelector = `[src="${googleMapsUrl}"]`;
+    const isInjected = document.querySelectorAll(scriptSelector).length;
 
-      document.body.appendChild(el);
-    }
+    if (isInjected) reject("Google Maps script is already injected.");
+
+    const el: HTMLScriptElement = document.createElement("script");
+    el.type = "text/javascript";
+    el.src = googleMapsUrl;
+    el.onload = () =>
+      initMap()
+        .then(resolve)
+        .catch(reject);
+
+    document.body.appendChild(el);
   });
 
 export { injectMap };
