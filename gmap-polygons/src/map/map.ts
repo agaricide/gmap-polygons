@@ -27,15 +27,15 @@ const injectMap = () =>
 
     if (isInjected) reject("Google Maps script is already injected.");
 
-    const el: HTMLScriptElement = document.createElement("script");
-    el.type = "text/javascript";
-    el.src = googleMapsUrl;
-    el.onload = () =>
+    const script: HTMLScriptElement = document.createElement("script");
+    script.type = "text/javascript";
+    script.src = googleMapsUrl;
+    script.onload = () =>
       initMap()
         .then(resolve)
         .catch(reject);
 
-    document.body.appendChild(el);
+    document.body.appendChild(script);
   });
 
 export { injectMap };
