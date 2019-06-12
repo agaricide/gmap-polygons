@@ -1,10 +1,9 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "module": "system",
+    "module": "commonjs",
     "moduleResolution": "node",
     "sourceMap": true,
-    "outFile": "./dist/bundle.js",
     "strict": true,
 
     /* Type Checking */
@@ -37,5 +36,5 @@
     // "experimentalDecorators": true,        /* Enables experimental support for ES7 decorators. */
     // "emitDecoratorMetadata": true,         /* Enables experimental support for emitting type metadata for decorators. */
   },
-  "files": ["src/index.ts", "index.d.ts"]
+  "files": ["src/index.ts"]
 }

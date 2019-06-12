@@ -1,3 +1,5 @@
-import GoogleMapsAPI from 'googlemaps';
+import { injectMap } from "./map";
 
-var gm = new GoogleMapsAPI({});
+console.log("Injecting map!");
+
+injectMap();
