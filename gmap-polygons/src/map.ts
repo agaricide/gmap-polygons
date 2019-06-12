@@ -1,4 +1,4 @@
-import 'map.css';
+import "map.css";
 
 const createDiv = (id = "") => {
   const div: HTMLDivElement = document.createElement("div");
