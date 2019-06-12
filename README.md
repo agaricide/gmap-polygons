@@ -1,7 +1,7 @@
 # Gmaps Polygons Lab
 
 ## About
-  - Objectives:
+  - Goals:
     -  Draw DPD police beats as polygons on a map w/ Google Maps API
     -  Render a real-time map of deployed elements using Dallas Open Data
 
