@@ -17,19 +17,20 @@ const initMap = () =>
     resolve(map);
   });
 
-const googleMapsUrl =
-  "https://maps.googleapis.com/maps/api/js?key=AIzaSyDLfK6Ay-NkW5FRc-mmb82-nsSYWy9m0po&libraries=drawing";
+const getGoogleMapsUrl = (key: string) =>
+  `https://maps.googleapis.com/maps/api/js?key=${key}&libraries=drawing`;
 
-const injectMap = () =>
+const injectMap = (key = "") =>
   new Promise<google.maps.Map>((resolve, reject) => {
-    const scriptSelector = `[src="${googleMapsUrl}"]`;
+    const googleMapUrl = getGoogleMapsUrl(key);
+    const scriptSelector = `[src="${googleMapUrl}"]`;
     const isInjected = document.querySelectorAll(scriptSelector).length;
 
     if (isInjected) reject("Google Maps script is already injected.");
 
     const script: HTMLScriptElement = document.createElement("script");
     script.type = "text/javascript";
-    script.src = googleMapsUrl;
+    script.src = googleMapUrl;
     script.onload = () =>
       initMap()
         .then(resolve)
