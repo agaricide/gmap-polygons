@@ -5,7 +5,6 @@ import { Dallas } from "../../constants.json";
 const { lat, lng }: google.maps.LatLngLiteral = Dallas;
 
 /**
- *
  * @param input a place search input (a location, cross street, etc.)
  * @see https://developers.google.com/places/web-service/search
  */
