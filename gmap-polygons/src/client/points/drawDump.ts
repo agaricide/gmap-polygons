@@ -14,22 +14,21 @@ const incidents = dump
   .map(({ location, incident }) => ({ ...incident, ...location }));
 
 const drawDump = (map: google.maps.Map): google.maps.Marker[] =>
-  incidents.map(({ lat, lng, nature_of_call, date_time }, index) => {
+  incidents.map(({ lat, lng, nature_of_call, date_time }) => {
     const position = { lat, lng };
-    const title = nature_of_call;
     const date = moment(date_time);
     const color = getColor(date);
     const icon = `http://maps.google.com/mapfiles/ms/icons/${color}-dot.png`;
 
-    const marker = new google.maps.Marker({ map, position, title, icon });
+    const marker = new google.maps.Marker({ map, position, icon });
 
     const infoWindow = new google.maps.InfoWindow({
       content: `<div>${nature_of_call} - ${date.fromNow()}</div>`
     });
 
-    google.maps.event.addListener(marker, "click", function() {
-      infoWindow.open(map, marker);
-    });
+    google.maps.event.addListener(marker, "click", () =>
+      infoWindow.open(map, marker)
+    );
 
     return marker;
   });
