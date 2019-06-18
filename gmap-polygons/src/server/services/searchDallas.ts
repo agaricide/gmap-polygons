@@ -8,7 +8,7 @@ const { lat, lng }: google.maps.LatLngLiteral = Dallas;
  * @param input a place search input (a location, cross street, etc.)
  * @see https://developers.google.com/places/web-service/search
  */
-const searchPlace = (input: string): Promise<any> =>
+const searchDallas = (input: string): Promise<any> =>
   axios.get(
     "https://maps.googleapis.com/maps/api/place/findplacefromtext/json",
     {
@@ -22,4 +22,4 @@ const searchPlace = (input: string): Promise<any> =>
     }
   );
 
-export default searchPlace;
+export default searchDallas;

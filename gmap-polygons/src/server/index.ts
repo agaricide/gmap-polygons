@@ -1,8 +1,8 @@
-import searchPlace from "./services/searchPlace";
+import searchDallas from "./services/searchDallas";
 import getActiceCalls from "./services/getActiveCalls";
 import { Incident } from "./types/incident";
 
-// searchPlace("W Illinois Ave")
+// searchDallas("W Illinois Ave")
 //   .then(response => {
 //     console.log(response.data.candidates[0]);
 //   })
