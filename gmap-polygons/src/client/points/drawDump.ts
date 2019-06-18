@@ -26,9 +26,13 @@ const drawDump = (map: google.maps.Map): google.maps.Marker[] =>
       content: `<div>${nature_of_call} - ${date.fromNow()}</div>`
     });
 
-    google.maps.event.addListener(marker, "click", () =>
-      infoWindow.open(map, marker)
-    );
+    google.maps.event.addListener(marker, "mouseover", () => {
+      infoWindow.open(map, marker);
+    });
+
+    google.maps.event.addListener(marker, "mouseout", () => {
+      infoWindow.close();
+    });
 
     return marker;
   });
