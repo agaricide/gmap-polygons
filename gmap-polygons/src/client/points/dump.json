@@ -1,0 +1,940 @@
+[
+  {
+    "incident": {
+      "incident_number": "19-1112328",
+      "division": "Southwest",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:46:00.000",
+      "unit_number": "A431",
+      "block": "3000",
+      "location": "Groveview Dr",
+      "beat": 445,
+      "reporting_area": 4237,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7083074, "lng": -96.87001479999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1109652",
+      "division": "Northwest",
+      "nature_of_call": "PH - Panhandler",
+      "priority": 4,
+      "date_time": "2019-06-17T23:46:00.000",
+      "unit_number": "A590",
+      "location": "Dallas North Tollway Acrd Sb / W Northwest Hwy",
+      "beat": 524,
+      "reporting_area": 3063,
+      "status": "At Scene"
+    },
+    "location": { "lat": 33.0076938, "lng": -96.8290792 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111908",
+      "division": "Northwest",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:45:00.000",
+      "unit_number": "A546",
+      "block": "4600",
+      "location": "Cedar Springs Rd",
+      "beat": 542,
+      "reporting_area": 3104,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8168316, "lng": -96.8184557 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112082",
+      "division": "Northeast",
+      "nature_of_call": "20 - Robbery",
+      "priority": 2,
+      "date_time": "2019-06-17T23:45:00.000",
+      "unit_number": "A256",
+      "block": "8800",
+      "location": "Park Ln",
+      "beat": 213,
+      "reporting_area": 1072,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8739441, "lng": -96.81019099999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112129",
+      "division": "North Central",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:45:00.000",
+      "unit_number": "E654",
+      "location": "Esperanza Rd",
+      "beat": 644,
+      "reporting_area": 1022,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.934281, "lng": -96.7611877 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112019",
+      "division": "South Central",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:44:00.000",
+      "unit_number": "E736",
+      "block": "3700",
+      "location": "Conway St",
+      "beat": 723,
+      "reporting_area": 4264,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.6987447, "lng": -96.83006549999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112219",
+      "division": "Southeast",
+      "nature_of_call": "40/01 - Other",
+      "priority": 2,
+      "date_time": "2019-06-17T23:44:00.000",
+      "unit_number": "C311",
+      "location": "C F Hawn Fwy Eb / S St Augustine Dr",
+      "beat": 354,
+      "reporting_area": 2216,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7032969, "lng": -96.6555138 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1110985",
+      "division": "Central",
+      "nature_of_call": "09 - Theft",
+      "priority": 4,
+      "date_time": "2019-06-17T23:44:00.000",
+      "unit_number": "F151",
+      "block": "4500",
+      "location": "Live Oak St",
+      "beat": 156,
+      "reporting_area": 2019,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7980955, "lng": -96.77792439999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112219",
+      "division": "Southeast",
+      "nature_of_call": "40/01 - Other",
+      "priority": 2,
+      "date_time": "2019-06-17T23:44:00.000",
+      "unit_number": "E357",
+      "location": "C F Hawn Fwy Eb / S St Augustine Dr",
+      "beat": 354,
+      "reporting_area": 2216,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7032969, "lng": -96.6555138 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111984",
+      "division": "Northeast",
+      "nature_of_call": "40/01 - Other",
+      "priority": 2,
+      "date_time": "2019-06-17T23:42:00.000",
+      "unit_number": "A246",
+      "location": "Forest Ln / Skillman St",
+      "beat": 258,
+      "reporting_area": 1043,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.9087495, "lng": -96.70569370000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112425",
+      "division": "Southeast",
+      "nature_of_call": "6XE - Disturbance Emergency",
+      "priority": 1,
+      "date_time": "2019-06-17T23:42:00.000",
+      "unit_number": "C333",
+      "block": "9900",
+      "location": "Scyene Rd",
+      "beat": 323,
+      "reporting_area": 1238,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7631002, "lng": -96.6911168 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112045",
+      "division": "Northeast",
+      "nature_of_call": "13 - Prowler",
+      "priority": 2,
+      "date_time": "2019-06-17T23:42:00.000",
+      "unit_number": "E248",
+      "block": "5700",
+      "location": "Pineland Dr",
+      "beat": 212,
+      "reporting_area": 1063,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8756665, "lng": -96.7547518 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112045",
+      "division": "Northeast",
+      "nature_of_call": "13 - Prowler",
+      "priority": 2,
+      "date_time": "2019-06-17T23:42:00.000",
+      "unit_number": "E250",
+      "block": "5700",
+      "location": "Pineland Dr",
+      "beat": 212,
+      "reporting_area": 1063,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8756665, "lng": -96.7547518 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111906",
+      "division": "Northeast",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:41:00.000",
+      "unit_number": "A222",
+      "block": "2600",
+      "location": "John West Rd",
+      "beat": 224,
+      "reporting_area": 1180,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8071194, "lng": -96.67973289999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111951",
+      "division": "Northeast",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:40:00.000",
+      "unit_number": "A248",
+      "block": "6000",
+      "location": "Abrams Rd",
+      "beat": 215,
+      "reporting_area": 1085,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8747333, "lng": -96.7414768 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112211",
+      "division": "Northwest",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:40:00.000",
+      "unit_number": "A538",
+      "block": "100",
+      "location": "Oak Lawn Ave",
+      "beat": 516,
+      "reporting_area": 3124,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8053864, "lng": -96.81286469999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112345",
+      "division": "Central",
+      "nature_of_call": "37 - Street Blockage",
+      "priority": 4,
+      "date_time": "2019-06-17T23:40:00.000",
+      "unit_number": "L134",
+      "block": "1800",
+      "location": "Corsicana St",
+      "beat": 135,
+      "reporting_area": 2088,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.774721, "lng": -96.79348700000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1109409",
+      "division": "Northwest",
+      "nature_of_call": "09 - Theft",
+      "priority": 4,
+      "date_time": "2019-06-17T23:40:00.000",
+      "unit_number": "A544",
+      "block": "5500",
+      "location": "Harry Hines Blvd",
+      "beat": 541,
+      "reporting_area": 3101,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8400959, "lng": -96.8687405 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112423",
+      "division": "North Central",
+      "nature_of_call": "15 - Assist Officer",
+      "priority": 1,
+      "date_time": "2019-06-17T23:39:00.000",
+      "unit_number": "A612",
+      "block": "18100",
+      "location": "Marsh Ln",
+      "beat": 611,
+      "reporting_area": 6006,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.9526701, "lng": -96.85561489999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112423",
+      "division": "North Central",
+      "nature_of_call": "15 - Assist Officer",
+      "priority": 1,
+      "date_time": "2019-06-17T23:39:00.000",
+      "unit_number": "A614",
+      "block": "18100",
+      "location": "Marsh Ln",
+      "beat": 611,
+      "reporting_area": 6006,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.9526701, "lng": -96.85561489999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111802",
+      "division": "Northwest",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:39:00.000",
+      "unit_number": "A526",
+      "block": "4500",
+      "location": "Lake Ave",
+      "beat": 541,
+      "reporting_area": 3113,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7524198, "lng": -96.818303 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112423",
+      "division": "North Central",
+      "nature_of_call": "15 - Assist Officer",
+      "priority": 1,
+      "date_time": "2019-06-17T23:39:00.000",
+      "unit_number": "X8140",
+      "block": "18100",
+      "location": "Marsh Ln",
+      "beat": 611,
+      "reporting_area": 6006,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.9526701, "lng": -96.85561489999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1109624",
+      "division": "Northeast",
+      "nature_of_call": "23 - Parking Violation",
+      "priority": 4,
+      "date_time": "2019-06-17T23:39:00.000",
+      "unit_number": "A232",
+      "block": "10600",
+      "location": "Galena St",
+      "beat": 226,
+      "reporting_area": 1136,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8417918, "lng": -96.67689449999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111861",
+      "division": "Northeast",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:38:00.000",
+      "unit_number": "E244",
+      "block": "6400",
+      "location": "Ridgecrest Rd",
+      "beat": 216,
+      "reporting_area": 1084,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8685545, "lng": -96.75697679999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111730",
+      "division": "Northeast",
+      "nature_of_call": "04 - 911 Hang Up",
+      "priority": 2,
+      "date_time": "2019-06-17T23:37:00.000",
+      "unit_number": "A242",
+      "block": "6200",
+      "location": "Melody Ln",
+      "beat": 216,
+      "reporting_area": 4529,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8655976, "lng": -96.7574562 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112191",
+      "division": "North Central",
+      "nature_of_call": "40/01 - Other",
+      "priority": 2,
+      "date_time": "2019-06-17T23:37:00.000",
+      "unit_number": "A642",
+      "block": "3900",
+      "location": "Rosemeade Pkwy",
+      "beat": 612,
+      "reporting_area": 4423,
+      "status": "At Scene"
+    },
+    "location": { "lat": 33.010525, "lng": -96.8435641 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112191",
+      "division": "North Central",
+      "nature_of_call": "40/01 - Other",
+      "priority": 2,
+      "date_time": "2019-06-17T23:37:00.000",
+      "unit_number": "A634",
+      "block": "3900",
+      "location": "Rosemeade Pkwy",
+      "beat": 612,
+      "reporting_area": 4423,
+      "status": "At Scene"
+    },
+    "location": { "lat": 33.010525, "lng": -96.8435641 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112393",
+      "division": "Southwest",
+      "nature_of_call": "18 - Structure Fire",
+      "priority": 2,
+      "date_time": "2019-06-17T23:35:00.000",
+      "unit_number": "C427",
+      "block": "2600",
+      "location": "S Zang Blvd",
+      "beat": 453,
+      "reporting_area": 4213,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7295379, "lng": -96.8277481 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112300",
+      "division": "Central",
+      "nature_of_call": "32 - Suspicious Person",
+      "priority": 2,
+      "date_time": "2019-06-17T23:35:00.000",
+      "unit_number": "E153",
+      "block": "3000",
+      "location": "Gaston Ave",
+      "beat": 116,
+      "reporting_area": 2053,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8048061, "lng": -96.7637275 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112133",
+      "division": "North Central",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T23:32:00.000",
+      "unit_number": "A622",
+      "block": "13300",
+      "location": "Esperanza Rd",
+      "beat": 644,
+      "reporting_area": 1022,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.934281, "lng": -96.7611877 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112173",
+      "division": "Central",
+      "nature_of_call": "32 - Suspicious Person",
+      "priority": 2,
+      "date_time": "2019-06-17T23:23:00.000",
+      "unit_number": "C121",
+      "block": "5200",
+      "location": "Goodwin Ave",
+      "beat": 141,
+      "reporting_area": 1143,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8235, "lng": -96.77312529999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112321",
+      "division": "South Central",
+      "nature_of_call": "19 - Shooting",
+      "priority": 1,
+      "date_time": "2019-06-17T23:22:00.000",
+      "unit_number": "A748",
+      "block": "800",
+      "location": "MORRELL AVE",
+      "beat": 712,
+      "reporting_area": 4146,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7399582, "lng": -96.79542939999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112321",
+      "division": "South Central",
+      "nature_of_call": "19 - Shooting",
+      "priority": 1,
+      "date_time": "2019-06-17T23:22:00.000",
+      "unit_number": "E750",
+      "block": "800",
+      "location": "MORRELL AVE",
+      "beat": 712,
+      "reporting_area": 4146,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7399582, "lng": -96.79542939999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112321",
+      "division": "South Central",
+      "nature_of_call": "19 - Shooting",
+      "priority": 1,
+      "date_time": "2019-06-17T23:22:00.000",
+      "unit_number": "A736",
+      "block": "800",
+      "location": "MORRELL AVE",
+      "beat": 712,
+      "reporting_area": 4146,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7399582, "lng": -96.79542939999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112210",
+      "division": "South Central",
+      "nature_of_call": "7XF - Major Accident Freeway",
+      "priority": 1,
+      "date_time": "2019-06-17T23:14:00.000",
+      "unit_number": "E755",
+      "block": "5400",
+      "location": "MARVIN D LOVE FWY NB",
+      "beat": 742,
+      "reporting_area": 4329,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.650161, "lng": -96.88366490000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112210",
+      "division": "South Central",
+      "nature_of_call": "7XF - Major Accident Freeway",
+      "priority": 1,
+      "date_time": "2019-06-17T23:14:00.000",
+      "unit_number": "E730",
+      "block": "5400",
+      "location": "MARVIN D LOVE FWY NB",
+      "beat": 742,
+      "reporting_area": 4329,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.650161, "lng": -96.88366490000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112210",
+      "division": "South Central",
+      "nature_of_call": "7XF - Major Accident Freeway",
+      "priority": 1,
+      "date_time": "2019-06-17T23:14:00.000",
+      "unit_number": "C752",
+      "block": "5400",
+      "location": "MARVIN D LOVE FWY NB",
+      "beat": 742,
+      "reporting_area": 4329,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.650161, "lng": -96.88366490000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112210",
+      "division": "South Central",
+      "nature_of_call": "7XF - Major Accident Freeway",
+      "priority": 1,
+      "date_time": "2019-06-17T23:14:00.000",
+      "unit_number": "C734",
+      "block": "5400",
+      "location": "MARVIN D LOVE FWY NB",
+      "beat": 742,
+      "reporting_area": 4329,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.650161, "lng": -96.88366490000001 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112284",
+      "division": "North Central",
+      "nature_of_call": "41/20 - Robbery - In Progress",
+      "priority": 1,
+      "date_time": "2019-06-17T23:11:00.000",
+      "unit_number": "E650",
+      "block": "16100",
+      "location": "Dallas Pkwy",
+      "beat": 622,
+      "reporting_area": 6001,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7709452, "lng": -96.75911719999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112284",
+      "division": "North Central",
+      "nature_of_call": "41/20 - Robbery - In Progress",
+      "priority": 1,
+      "date_time": "2019-06-17T23:11:00.000",
+      "unit_number": "E655",
+      "block": "16100",
+      "location": "Dallas Pkwy",
+      "beat": 622,
+      "reporting_area": 6001,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7709452, "lng": -96.75911719999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112284",
+      "division": "North Central",
+      "nature_of_call": "41/20 - Robbery - In Progress",
+      "priority": 1,
+      "date_time": "2019-06-17T23:11:00.000",
+      "unit_number": "A693",
+      "block": "16100",
+      "location": "Dallas Pkwy",
+      "beat": 622,
+      "reporting_area": 6001,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7709452, "lng": -96.75911719999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112284",
+      "division": "North Central",
+      "nature_of_call": "41/20 - Robbery - In Progress",
+      "priority": 1,
+      "date_time": "2019-06-17T23:11:00.000",
+      "unit_number": "A644",
+      "block": "16100",
+      "location": "Dallas Pkwy",
+      "beat": 622,
+      "reporting_area": 6001,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7709452, "lng": -96.75911719999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1112161",
+      "division": "Central",
+      "nature_of_call": "07 - Minor Accident",
+      "priority": 3,
+      "date_time": "2019-06-17T23:08:00.000",
+      "unit_number": "T113",
+      "block": "3600",
+      "location": "Howell St",
+      "beat": 124,
+      "reporting_area": 2007,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8005323, "lng": -96.800981 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1110891",
+      "division": "Central",
+      "nature_of_call": "40 - Other",
+      "priority": 3,
+      "date_time": "2019-06-17T23:06:00.000",
+      "unit_number": "C155",
+      "block": "1400",
+      "location": "Belleview St",
+      "beat": 152,
+      "reporting_area": 2105,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7691437, "lng": -96.7943795 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111884",
+      "division": "Northwest",
+      "nature_of_call": "7X - Major Accident",
+      "priority": 2,
+      "date_time": "2019-06-17T22:55:00.000",
+      "unit_number": "E558",
+      "location": "Midway Rd / Forest Ln",
+      "beat": 554,
+      "reporting_area": 3012,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.9094632, "lng": -96.838342 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111986",
+      "division": "North Central",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T22:54:00.000",
+      "unit_number": "E652",
+      "block": "7500",
+      "location": "Greenbrier Dr",
+      "beat": 654,
+      "reporting_area": 1094,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8580696, "lng": -96.79801049999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111813",
+      "division": "Southwest",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T22:12:00.000",
+      "unit_number": "C421",
+      "block": "7000",
+      "location": "W Wheatland Rd",
+      "beat": 435,
+      "reporting_area": 4397,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.6474701, "lng": -96.8874666 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111806",
+      "division": "Southeast",
+      "nature_of_call": "6XE - Disturbance Emergency",
+      "priority": 1,
+      "date_time": "2019-06-17T21:38:00.000",
+      "unit_number": "F327",
+      "block": "1100",
+      "location": "N Prairie Creek Rd",
+      "beat": 337,
+      "reporting_area": 2203,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.8027483, "lng": -96.77376059999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111184",
+      "division": "Northeast",
+      "nature_of_call": "26/01- Missing Person-Critical",
+      "priority": 2,
+      "date_time": "2019-06-17T20:14:00.000",
+      "unit_number": "C251",
+      "block": "9400",
+      "location": "Forest Ln",
+      "beat": 242,
+      "reporting_area": 4525,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7578805, "lng": -96.78144689999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1111261",
+      "division": "South Central",
+      "nature_of_call": "6X - Major Dist (Violence)",
+      "priority": 2,
+      "date_time": "2019-06-17T20:11:00.000",
+      "unit_number": "C716",
+      "block": "7400",
+      "location": "Concordia Ln",
+      "beat": 752,
+      "reporting_area": 4365,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.6561249, "lng": -96.81052919999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "C346",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "A236",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "M100",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "CH100",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "L136",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "S106",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "A447",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "U514",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  },
+  {
+    "incident": {
+      "incident_number": "19-1107287",
+      "division": "Central",
+      "nature_of_call": "DASF-Dist Active Shooter Foot",
+      "priority": 1,
+      "date_time": "2019-06-17T08:49:00.000",
+      "unit_number": "A452",
+      "block": "1100",
+      "location": "Commerce St",
+      "beat": 133,
+      "reporting_area": 2061,
+      "status": "At Scene"
+    },
+    "location": { "lat": 32.7811211, "lng": -96.79324799999999 }
+  }
+]
