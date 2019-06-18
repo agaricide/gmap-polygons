@@ -12,5 +12,8 @@
     "strictNullChecks": true,
     "alwaysStrict": true,
   },
-  "files": ["src/index.ts"]
+  "files": [
+    "src/client/index.ts",
+    "src/server/index.ts"
+  ]
 }

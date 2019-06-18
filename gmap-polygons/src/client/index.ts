@@ -1,4 +1,4 @@
-import { Google } from "./config.json";
+import { Google } from "../config.json";
 import { injectMap } from "./map/map";
 import drawPoints from "./points/drawPoints";
 

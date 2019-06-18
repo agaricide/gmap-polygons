@@ -4,7 +4,7 @@ const path = require("path");
 const webpack = require("webpack");
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 
-const SRC = path.resolve(__dirname, "src");
+const SRC = path.resolve(__dirname, "src", "client");
 const DIST = path.resolve(__dirname, "dist");
 
 module.exports = {
