@@ -50,7 +50,7 @@ module.exports = {
       }
     ]
   },
-  plugins: [new HtmlWebpackPlugin()],
+  plugins: [new HtmlWebpackPlugin({ title: "DPD Active Calls" })],
   devtool: "cheap-module-source-map",
   devServer: {
     host: "localhost",
